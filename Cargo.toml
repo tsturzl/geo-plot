@@ -1,6 +1,6 @@
 [package]
 name = "geo-plot"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["tsturzl <tsturzl@lefthandrobotics.com>"]
 edition = "2018"
 description = "Plot geo_types with gnuplot"
