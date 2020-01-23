@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["tsturzl <tsturzl@lefthandrobotics.com>"]
 edition = "2018"
 description = "Plot geo_types with gnuplot"
+license = "MIT"
 
 [dependencies]
 geo-types = "0.4.3"
