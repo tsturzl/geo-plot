@@ -1,7 +1,7 @@
 use geo_types::*;
 use gnuplot::{Figure, PlotOption};
 
-trait Plot {
+pub trait Plot {
     fn plot(&self, fg: &mut Figure, opt: &[PlotOption<&str>]);
 }
 
